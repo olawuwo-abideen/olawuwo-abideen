@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - GitHub: [@Olawuwo Abideen](https://github.com/olawuwo-abideen)
 - Twitter: [@Olawuwo Abideen](https://twitter.com/olawuwo_abideen)
 - LinkedIn: [@Olawuwo Abideen](https://www.linkedin.com/in/olawuwo-abideen/)
+- Gmail: [@Olawuwo Abideen](abideenolawuwo@gmail)
+   
 
 
