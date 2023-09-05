@@ -1,8 +1,6 @@
 ### Hi there, I'm Olawuwo Abideen  👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m looking for intership or entry level Backend Engineer
 - 🌱 I’m currently learning microservices and system design
 - 👯 I’m looking to collaborate on open source project
