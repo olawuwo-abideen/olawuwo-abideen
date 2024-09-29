@@ -1,8 +1,6 @@
 ### Hi there, I'm Olawuwo Abideen  👋
 
-
-- 🔭 I’m looking for Backend Engineer Role
-- 🌱 I’m currently learning microservices and system design
+- 🌱 I’m currently learning Devops
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about; Documentation and Web Engineering
 - 📫 How to reach me: ...
